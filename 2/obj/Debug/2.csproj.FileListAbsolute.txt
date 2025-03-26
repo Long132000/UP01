@@ -1,0 +1,10 @@
+H:\УП01\Кодики\2\2\bin\Debug\2.exe.config
+H:\УП01\Кодики\2\2\bin\Debug\2.exe
+H:\УП01\Кодики\2\2\bin\Debug\2.pdb
+H:\УП01\Кодики\2\2\obj\Debug\2.csproj.AssemblyReference.cache
+H:\УП01\Кодики\2\2\obj\Debug\_2.Form1.resources
+H:\УП01\Кодики\2\2\obj\Debug\_2.Properties.Resources.resources
+H:\УП01\Кодики\2\2\obj\Debug\2.csproj.GenerateResource.cache
+H:\УП01\Кодики\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+H:\УП01\Кодики\2\2\obj\Debug\2.exe
+H:\УП01\Кодики\2\2\obj\Debug\2.pdb
